@@ -4,15 +4,25 @@
 The purpose of this analysis was to create a neural network model which will determine whether applicants will be successful if they are funded by Alphabet Soup. There are 34000 organizations that have received funding from Alphabet soup over the years. The data set contains the following: 
 
 •	EIN and NAME—Identification columns
+
 •	APPLICATION_TYPE—Alphabet Soup application type
+
 •	AFFILIATION—Affiliated sector of industry
+
 •	CLASSIFICATION—Government organization classification
+
 •	USE_CASE—Use case for funding
+
 •	ORGANIZATION—Organization type
+
 •	STATUS—Active status
+
 •	INCOME_AMT—Income classification
+
 •	SPECIAL_CONSIDERATIONS—Special consideration for application
+
 •	ASK_AMT—Funding amount requested.
+
 •	IS_SUCCESSFUL—Was the money used effectively.
 
 # Results: 
@@ -24,14 +34,23 @@ We have targeted for the model is “IS_Successful” Flag.
 These are the features used for the model: 
 
 •	APPLICATION_TYPE—Alphabet Soup application type
+
 •	AFFILIATION—Affiliated sector of industry
+
 •	CLASSIFICATION—Government organization classification
+
 •	USE_CASE—Use case for funding
+
 •	ORGANIZATION—Organization type
+
 •	STATUS—Active status
+
 •	INCOME_AMT—Income classification
+
 •	SPECIAL_CONSIDERATIONS—Special consideration for application
+
 •	ASK_AMT—Funding amount requested.
+
 •	NAME-An identifier column that is used to filter out 'first time' applicants.
 
 •	EIN column was removed from the dataset as it is used for identification purposes. 
