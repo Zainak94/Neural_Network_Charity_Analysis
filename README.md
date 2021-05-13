@@ -64,7 +64,7 @@ These are the features used for the model:
 
 •	I have added 3 layers. Tried it with 2 layers as well but then did 3 layers.   
 
-![Neural_Network_Charity_Analysis](https://github.com/Zainak94/Neural_Network_Charity_Analysis/blob/main/Resources/HiddenLayer2.PNG).
+![Neural_Network_Charity_Analysis](https://github.com/Zainak94/Neural_Network_Charity_Analysis/blob/main/Resources/HiddenLayers2.PNG).
 
 ![Neural_Network_Charity_Analysis](https://github.com/Zainak94/Neural_Network_Charity_Analysis/blob/main/Resources/HiddenLayer3.PNG).
 
