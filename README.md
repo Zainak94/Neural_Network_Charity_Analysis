@@ -70,7 +70,7 @@ These are the features used for the model:
 
 •	I was unable to achieve the accuracy of the model. I wanted to try couple of ideas, but I was unable to go through them due to memory error. I had to remove name to process the accuracy. I tried removing some of the other columns from the data set so I can achieve the accuracy, but the main 2 columns were EIN and Name. I tried removing EIN but due to memory error my model could not run. 
 
-![Neural_Network_Charity_Analysis](https://github.com/Zainak94/ Neural_Network_Charity_Analysis/blob/main/Resources/Accuracy2.PNG).
+![Neural_Network_Charity_Analysis](https://github.com/Zainak94/Neural_Network_Charity_Analysis/blob/main/Resources/Accuracy2.PNG).
 
 # Summary: 
 
